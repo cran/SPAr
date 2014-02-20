@@ -1,0 +1,3 @@
+#exportPattern("^[[:alpha:]]+")
+export(print.SPA,SPA.I,SPA.I.GE)
+S3method(print,SPA)
